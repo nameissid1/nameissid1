@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nameissid1
-- 👀 I’m interested in data structures and alagorithms
+- 👀 I’m interested in data structures and algorithms
 - 🌱 I’m currently learning ...c language
 - 💞️ I’m looking to collaborate on  anyone ".. "
 
